@@ -1,1 +1,1 @@
-# club-euphoria-minecraft
+# Club Euphoria Minecraft
