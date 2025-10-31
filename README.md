@@ -1,2 +1,3 @@
 # Club Euphoria Minecraft
-**Server:** clubeuphoria.modrinth.gg
+####**Server** 
+clubeuphoria.modrinth.gg
