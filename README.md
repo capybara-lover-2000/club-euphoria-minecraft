@@ -1,3 +1,2 @@
 # Club Euphoria Minecraft
-### Server ip
-clubeuphoria.modrinth.gg
+**Server:** clubeuphoria.modrinth.gg
