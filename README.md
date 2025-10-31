@@ -1,4 +1,2 @@
 # Club Euphoria Minecraft
-
-
-## Server Name
+clubeuphoria.modrinth.gg
